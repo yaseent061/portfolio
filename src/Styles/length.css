@@ -1,0 +1,70 @@
+.p-100{
+    padding: 100px !important;
+}
+
+.pt-100{
+    padding-top: 100px !important;
+}
+
+.pt-5{
+    padding-top: 5% !important;
+}
+
+.pt-50{
+    padding-top: 50px !important;
+}
+
+.pb-100{
+    padding-bottom: 100px !important;
+}
+
+.pb-5{
+    padding-bottom: 5% !important;
+}
+
+.py-100{
+    padding: 100px 0 100px 0;
+}
+
+.px-100{
+    padding: 0px 100px 0px 100px;
+}
+
+.px-10{
+    padding: 0 10% 0 10%;
+}
+
+.pt-80{
+    padding-top: 80px !important;
+}
+
+
+.pl-40{
+    padding-left: 40px;
+}
+
+.p-40{
+    padding: 40px;
+}
+
+.pl-80{
+    padding-left: 80px;
+}
+
+.mxy-50{
+    margin-left: 50px ;
+    margin-right: 50px ;
+
+}
+
+.f-7{
+    font-size: 7vw;
+}
+
+.f-5{
+    font-size: 5vw;
+}
+
+.w-100{
+    width: 100% !important;
+}
